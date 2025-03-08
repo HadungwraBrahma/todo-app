@@ -8,9 +8,9 @@ This is an To-Do application built with React that includes API integration, Red
 
 ## 🖼️ Preview
 <p align="center">
-  <img src="public/preview-img/preview-1.png" alt="Todo App Preview 1" width="250"/>
-  <img src="public/preview-img/preview-2.png" alt="Todo App Preview 2" width="250"/>
-  <img src="public/preview-img/preview-3.png" alt="Todo App Preview 3" width="250"/>
+  <img src="public/preview-img/preview-1.png" alt="Todo App Preview 1" style="width: 250px;"/>
+  <img src="public/preview-img/preview-2.png" alt="Todo App Preview 2" style="width: 250px;"/>
+  <img src="public/preview-img/preview-3.png" alt="Todo App Preview 3" style="width: 250px;"/>
 </p>
 
 
