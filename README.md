@@ -7,9 +7,12 @@
 This is an To-Do application built with React that includes API integration, Redux for state management, user authentication, and a fully responsive design. It enhances the traditional To-Do app experience with additional features like task prioritization, persistent storage, and API-based dynamic data display.
 
 ## 🖼️ Preview
-![Todo App Preview 1](public/preview-img/preview-1.png)
-![Todo App Preview 2](public/preview-img/preview-2.png)
-![Todo App Preview 3](public/preview-img/preview-3.png)
+<p align="center">
+  <img src="public/preview-img/preview-1.png" alt="Todo App Preview 1" width="250"/>
+  <img src="public/preview-img/preview-2.png" alt="Todo App Preview 2" width="250"/>
+  <img src="public/preview-img/preview-3.png" alt="Todo App Preview 3" width="250"/>
+</p>
+
 
 ## 🎯 Features
 - **Task Management:** Add, view, and delete tasks easily.
