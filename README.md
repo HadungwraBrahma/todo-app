@@ -34,8 +34,8 @@ This is an To-Do application built with React that includes API integration, Red
 ## 🔧 Installation & Setup
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/advanced-todo-app.git
-cd advanced-todo-app
+git clone https://github.com/HadungwraBrahma/todo-app.git
+cd todo-app
 ```
 ### 2️⃣ Install dependencies
 ```bash
